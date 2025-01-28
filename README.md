@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarshitChhipa2006
-- I'm 17 year old
-- I'm played volleyball at state position
+- I'm 18 year old
+  
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C ++ DSA language
 - - 💞️ I’m looking to collaborate on tech bizz club
 - 📫 How to reach me ...
 
