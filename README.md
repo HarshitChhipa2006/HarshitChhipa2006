@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarshitChhipa2006
+- 👋 Hi, I’m @HarshitChhipa
 - I'm 18 year old
   
 - 👀 I’m interested in hacking
