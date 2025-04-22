@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/harshitchhipa09" target="blank"><img src="https://img.shields.io/twitter/follow/harshitchhipa09?logo=twitter&style=for-the-badge" alt="harshitchhipa09" /></a> </p>
 
-- 🌱 I’m currently learning  React , C++ DSA
+- 🌱 I’m currently learning    React , C++ DSA
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **harshitchhipa2006@gmail.com**
 
-- ⚡ Fun fact **I am Cope**
+- ⚡ Fun fact **I can Cope in all condition of life **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
