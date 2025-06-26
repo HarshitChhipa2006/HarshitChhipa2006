@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshitchhipa2006@gmail.com**
 
-- ⚡ Fun fact **I am Cope in all condition of life**
+- ⚡ Fun fact **I am adapt and empathetic in all conditions **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
